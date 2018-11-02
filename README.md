@@ -7,4 +7,6 @@
 语料使用了维基百科中英文预料，训练参数使用默认参数，得到的模型大小为3.64G.
 另外需要新建 data 目录存放训练好的模型（二进制.bin文件）
 ## 实现效果
+访问http://localhost:5000/?query=houston
+使用？连接 query 与 url
 ![Image text](http://p5vuwy2ht.bkt.clouddn.com/RelatedWord1.png)
