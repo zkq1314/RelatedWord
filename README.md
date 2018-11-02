@@ -10,3 +10,5 @@
 访问http://localhost:5000/?query=houston
 使用？连接 query 与 url
 ![Image text](http://p5vuwy2ht.bkt.clouddn.com/RelatedWord1.png)
+## 后续想法
+单纯使用 word2vec 的相近词向量并不能完全达到用户想要得到的搜索结果。针对汉语而言，准备加入偏旁信息来推荐相关搜索词。
